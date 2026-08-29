@@ -9,6 +9,7 @@
 ^https://geekwire\.com/
 ^https://getapp\.com/
 ^https://killerstartups\.com/
+^https://land-book\.com/
 ^https://pitchwall\.co/
 ^https://startup88\.com/
 ^https://startupbuffer\.com/
@@ -20,6 +21,7 @@
 ^https://www\.launchingnext\.com/
 ^https://www\.slant\.co/
 ^https://www\.startupranking\.com/
+^https://www\.vator\.tv/
 ^https://www\.websitehunt\.co/
 ^https://thetechmap\.com/
 ^https://www.producthunt\.com/
@@ -27,6 +29,8 @@
 ^https://www.sideprojectors\.com/
 ^https://www.snapmunk\.com/
 ^https://www.startupblink\.com/
+# Rate-limits CI IP ranges with HTTP/429
+^https://news\.ycombinator\.com/
 # Expired certificate
 ^https://app\.loopinput\.com/
 ^https://www\.allstartups\.info/
